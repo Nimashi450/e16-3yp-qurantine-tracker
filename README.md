@@ -1,12 +1,12 @@
 # e16-3yp-qurantine-tracker
 
-Group Members :
+# Group Members :
 
-  Tharushi Suwaris E/16/364  
-  Nimashi Uthpala  E/16/039  
-  Sachini Dissanayaka E/16/087
+  Tharushi Suwaris E/16/364  e16364@eng.pdn.ac.lk
+  Nimashi Uthpala  E/16/039  e16039@eng.pdn.ac.lk
+  Sachini Dissanayaka E/16/087  e16087@eng.pdn.ac.lk
   
- What is this Quarantine Tracker?
+# What is this Quarantine Tracker?
  
   We are going to track the people who are under quarantine due to be associated with a COVID19 patient and haven't proved that he/she hasn't yet 
   a COVID19 patient, but there is the possibility to be so. 
